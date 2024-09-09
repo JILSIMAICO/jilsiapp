@@ -12,5 +12,5 @@ phases:
     commands:
       - echo Build Finalizado
 artifacts:
-  files:
-    - buildspec.yml
+   files:
+    - build/**/*
